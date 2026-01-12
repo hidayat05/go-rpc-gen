@@ -10,7 +10,7 @@ A CLI tool to generate Go gRPC code from proto files, with built-in version mana
 ## Installation
 
 ```bash
-git clone <repo>
+git clone https://github.com/hidayat05/go-rpc-gen.git
 cd go-rpc-gen
 go install
 ```
